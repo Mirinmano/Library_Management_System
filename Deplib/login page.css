@@ -1,0 +1,34 @@
+.bod{
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 10px;
+    box-shadow: 10px 20px 8px 0px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+    background-color: #EBE3D5;
+    font-family: Trebuchet MS ;
+    color: #232d3f;
+}
+input{
+    border-left: 0px;
+    border-top: 0px;
+    border-right: 0px;
+    width: 100%;
+    padding:20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10%;
+    background-color: #F3EEEA;   
+}
+button{
+    background-color: brown;
+    color: pink;
+    width: auto;
+    padding:10px;
+    border-radius: 10%;
+}
+input:hover,button:hover{
+    background-color: #b0a695 ;
+    color: #000000;
+}
